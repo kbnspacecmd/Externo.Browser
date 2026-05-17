@@ -1,5 +1,5 @@
 {
   "version": "2.0.28",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.28/Externo.Browser.Setup.exe",
-  "notes": "Fix: Dragging files out of the downloads panel no longer lags the browser."
+  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v2.0.29/Externo.Browser.Setup.exe",
+  "notes": "Increased Preformance And Speed On LoadTime Made Each Tab Its Own Process (Prevents Crashing All Tabs If 1 Crashes), Tab: Drag Tab Into Group to add it Middle Click On Tab To Close Tab. Tab Renaming, Updated Ad Blocker, Added Add Desktop Shortcut In Settings, Updated Accounts To Work Globally. Fixed Auto Update"
 }
